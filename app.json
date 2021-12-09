@@ -1,0 +1,37 @@
+{
+    "name": "AntiChannelBan",
+    "description": "Best Anti Channel Ban Robots",
+    "logo": "https://telegra.ph/file/d2a5ad71757a96a656b68.jpg",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+        "BrayDenXD",
+        "AntiChannelBan"
+    ],
+    "repository": "https://GitHub.com/BrayDenXD/AntiChannelBan",
+    "website": "https://GitHub.com/BrayDenXD",
+    "success_url": "https://t.me/Decodesupport",
+    "env": {
+      "BOT_TOKEN": {
+        "description": "Bot token, get it from @BotFather",
+        "value": "",
+        "required": true
+      },
+      "API_ID": {
+        "description": "put ur api id",
+        "value": "",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "pur ur api hash",
+        "value": "",
+        "required": false
+      }
+  },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
