@@ -18,6 +18,7 @@ Heroku is the best way to host ur Projects
 ```
 BrayDen
 Blaze
+Shubhanshu
 Achu Biju
 Zaid
 ```
