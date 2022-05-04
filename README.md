@@ -6,7 +6,7 @@ delete and ban message sent by channels
 ## Heroku Deployment 💜
 Heroku is the best way to host ur Projects
 
-[![ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrayDenXD/AntiChannelBan)
+[![ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/AntiChannelBan)
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
